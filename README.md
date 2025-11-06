@@ -1,6 +1,6 @@
 # 🚆 Railway Reservation AI Assistant
 
-An AI-powered railway booking assistant with FastAPI backend and React frontend.
+An AI-powered railway booking assistant with FastAPI backend, GeminiAi model and React frontend.
 
 ## 🧠 Features
 - Conversational AI for ticket booking
